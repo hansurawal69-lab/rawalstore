@@ -1,4 +1,4 @@
-# rawalstore
+<img src="https://via.placeholder.com/400x300?text=Niacinamide+Face+Wash"># rawalstore
 <section id="products">
   <h2>Our Cosmetic Products</h2>
   <div class="grid">
